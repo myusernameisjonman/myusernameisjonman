@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @myusernameisjonman!
-- 👀 I’m interested in data and analytics, crypto and NFTs.
+- 👀 I’m interested in data, analytics and AI
 - 🌱 I’m currently learning a bit of everything. Primarily azure cloud atm.
 - 💞️ I’m looking to collaborate on any interesting data use cases.
 
